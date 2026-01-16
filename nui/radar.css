@@ -373,7 +373,7 @@ button:focus { outline: none; }
 
 		#radar .patrol_and_logo_container .display {
 			/* If you would like your patrol speed window to be solid rather than have a gradient, swap the comment for the 2 lines below */
-			background-color: rgb( 0, 57, 35 );
+			background-color: rgb(17, 0, 163);
 			/* background: linear-gradient( to bottom, rgb( 0, 40, 29 ), rgb( 0, 46, 32 ) 40%, rgb( 1, 64, 27 ) 85% ); */
 		}
 
@@ -388,30 +388,30 @@ button:focus { outline: none; }
 	}
 
 	#radar .display .ghost_speed {
-		color: rgb( 90, 35, 1 );
+		color: rgb(0, 186, 217);
 	}
 
 	#radar .display .speed {
-		color: rgb( 252, 113, 1 );
-		text-shadow: 0 0 8px rgba( 252, 114, 1, 0.65 );
+		color: rgb(0, 217, 255);
+		text-shadow: 0 0 8px rgba(0, 217, 255, 0.65);
 	}
 
 	#radar .display .fast_ghost_speed {
-		color: rgb( 70, 0, 0 );
+		color: rgb(0, 153, 255);
 	}
 
 	#radar .display .fast_speed {
-		color: rgb( 243, 12, 10 );
-		text-shadow: 0 0 8px rgba( 243, 14, 10, 0.65 );
+		color: rgb(0, 60, 181);
+		text-shadow: 0 0 8px rgba( 0, 60, 181, 0.65 );
 	}
 
 	#radar .display .patrol_ghost_speed {
-		color: rgb( 0, 91, 68 );
+		color: rgb(0, 163, 122);
 	}
 
 	#radar .display .patrol_speed {
-		color: rgb( 15, 244, 57 );
-		text-shadow: 0 0 8px rgba( 15, 244, 57, 0.65 );
+		color: rgb(0, 159, 255);
+		text-shadow: 0 0 8px rgba( 0, 159, 255, 0.65 );
 	}
 
 #rc {
